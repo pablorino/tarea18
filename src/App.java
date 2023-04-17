@@ -19,5 +19,7 @@ public class App {
         //Rama release a partir de develop
 
         //Release 2
+        
+        //Fusiono master v0.2 y release 2 y nos da lugar a Master v1.0
     }
 }

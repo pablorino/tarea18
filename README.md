@@ -1,18 +1,13 @@
-## Getting Started
+-Mediante el comando git init creamos el repositorio con la rama Master y hacemos un commit v0.1
+-Creamos la rama Hotfix a raiz de la rama master y hacemos un commit
+-Creamos la rama develop a raiz de la rama Master y hacemos un commit
+-Desde la rama master hacemos una fusion con la rama hotfix y hacemos el commit v0.2
+-De la rama develop creamos la rama feature_2 y hacemos 4 commit 
+-hacemos un segundo commit en la rama develop 
+-Creamos la rama feature_1 desde la rama develop y hacemos 2 commit
+-Desde la rama develop hacemos una fusion con la rama hotfix, aceptamos ambos cambios y hacemos un commit
+-Hacemos un nuevo commit de la rama develop a raiz de una fusion con la rama feature_1
+-A partir de la rama develop creamos la rama release y hacemos 2 commit
+-Desde la rama develop hacemos una fusion con la rama release y hacemos un commit
+-Desde la rama master hacemos una fusion con la rama release y hacemos un commit.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
