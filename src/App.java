@@ -5,5 +5,9 @@ public class App {
         //Develop 1
 
         //Develop 2
+
+        //Commit hotfix
+
+        //La fusion de develop 2 y fotfix da lugar a develop 3
     }
 }
