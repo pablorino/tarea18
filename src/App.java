@@ -16,5 +16,12 @@ public class App {
         //Develop 5
 
         
+        //La fusion de develop 3 y feature_1 nos da el commit develop 4
+
+        //Rama release a partir de develop
+
+        //Release 2
+
+        //Develop 6 fusion de release y develop 5
     }
 }
