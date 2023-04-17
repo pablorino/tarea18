@@ -5,5 +5,7 @@ public class App {
         //Develop 1
 
         //Feature 2 commit 1
+
+        //Feature 2 commit 2
     }
 }
